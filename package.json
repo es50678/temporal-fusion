@@ -14,7 +14,7 @@
     "build": "BABEL_ENV=production babel src -d dist",
     "build-storybook": "build-storybook -s public",
     "eject": "react-scripts eject",
-    "publish": "publish-npm && publish-github",
+    "publish": "yarn run publish-npm && yarn run publish-github",
     "publish-npm": "yarn publish --access public",
     "publish-github": "yarn publish --access public --registry https://npm.pkg.github.com/",
     "start": "react-scripts start",
