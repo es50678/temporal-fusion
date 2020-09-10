@@ -1,7 +1,7 @@
 import React from 'react';
 
 import './app.css';
-import logo from '../../images/logo.svg';
+import logo from '../../assets/images/logo.svg';
 import { Game } from '../game';
 import { ShoppingList } from '../shopping-list';
 
