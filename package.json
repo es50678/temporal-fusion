@@ -1,15 +1,12 @@
 {
   "author": "Eduardo Hernandez Soto <es50678@gmail.com>",
   "name": "@es50678/temporal-fusion",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "private": false,
   "main": "dist/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/es50678/temporal-fusion.git"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
   },
   "license": "MIT",
   "description": "Time Tracking visual react components",
