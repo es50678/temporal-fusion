@@ -1,7 +1,7 @@
 {
   "author": "Eduardo Hernandez Soto <es50678@gmail.com>",
   "name": "@es50678/temporal-fusion",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "main": "dist/index.js",
   "repository": "https://github.com/es50678/temporal-fusion.git",
@@ -24,7 +24,10 @@
         }
       ]
     ],
-    "ignore": ["**/*.test.js", "src/setupTests.js"]
+    "ignore": [
+      "**/*.test.js",
+      "src/setupTests.js"
+    ]
   },
   "eslintConfig": {
     "extends": "react-app"
